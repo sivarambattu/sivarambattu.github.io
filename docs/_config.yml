@@ -34,6 +34,8 @@ github_username:  jekyll
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+repository: "sivarambattu/sivarambattu.github.io"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
